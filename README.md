@@ -8,7 +8,7 @@
 
 In the "Projects" section, I've showcased some of the web applications and tools I've developed. Each project card links to a detailed page about the respective project.
 
-![Projects Section](https://your-image-link.com/projects-section.png)
+![Projects Section](https://drive.google.com/file/d/1MvidZcaJ0-8-B9KctYcXbMAN9wYEdpKO/view)
 
 
 ## Contact
