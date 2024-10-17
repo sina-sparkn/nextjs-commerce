@@ -1,15 +1,10 @@
 ## Home Page
 
-![Home Page]([https://your-image-link.com/home-page.png](https://drive.google.com/file/d/1MvidZcaJ0-8-B9KctYcXbMAN9wYEdpKO/view?usp=drive_link))
+<img src='banner.jpg' alt="banner"></img>
+<img src='banner.jpg' alt="banner"></img>
+<img src='banner.jpg' alt="banner"></img>
 
 ---
-
-## Projects Section
-
-In the "Projects" section, I've showcased some of the web applications and tools I've developed. Each project card links to a detailed page about the respective project.
-
-![Projects Section](https://drive.google.com/file/d/1MvidZcaJ0-8-B9KctYcXbMAN9wYEdpKO/view)
-
 
 ## Contact
 
